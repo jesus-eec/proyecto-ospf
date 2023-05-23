@@ -1,2 +1,0 @@
-# proyecto-ospf
-Proyecto OSPF
